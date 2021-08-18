@@ -1,3 +1,6 @@
+## Project
+este proyecto consume una api de www.coingecko.com, la cual trae valores como el precio de la moneda, la fluctuación en las ultimas 24 horas y su valor.
+
 # AngularCoingeckoApi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
